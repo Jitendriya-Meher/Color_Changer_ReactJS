@@ -1,6 +1,6 @@
 # React + Vite
 
-# Live Demo : https://stellular-semifreddo-ac50a7.netlify.app/
+## Live Demo : https://stellular-semifreddo-ac50a7.netlify.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
